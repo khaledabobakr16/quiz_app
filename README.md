@@ -3,7 +3,7 @@
 A new Flutter project.
 
 <img width="9190" alt="Untitled (2)" src="https://github.com/khaledabobakr16/quiz_app/assets/133836975/af5fa9cb-f833-4638-a22b-4da31ee12fe7">
-<img width="10880" alt="Untitled (6)" src="https://github.com/khaledabobakr16/quiz_app/assets/133836975/6f063270-2c1a-4c36-b4d5-dacdebd0f936">
+<img width="10880" alt="Untitled (6)" src="https://github.com/khaledabobakr16/quiz_app/assets/133836975/11e9fded-dfae-4812-b0fc-89b3c8af1ba4">
 
  # Screenshots
 
