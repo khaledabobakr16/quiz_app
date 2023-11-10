@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-<img width="9190" alt="Untitled (2)" src="https://github.com/khaledabobakr16/quiz_app/assets/133836975/af5fa9cb-f833-4638-a22b-4da31ee12fe7">
-<img width="10880" alt="Untitled (6)" src="https://github.com/khaledabobakr16/quiz_app/assets/133836975/11e9fded-dfae-4812-b0fc-89b3c8af1ba4">
+<img width="9190" alt="Untitled (2)" src="https://github.com/khaledabobakr16/quiz_app/assets/133836975/be7f9ddb-88ec-4051-9491-9055c0845c2e">
+<img width="10880" alt="Untitled (6)" src="https://github.com/khaledabobakr16/quiz_app/assets/133836975/4b74558d-cff4-4eae-8204-82a679da20fa">
 
  # Screenshots
 
